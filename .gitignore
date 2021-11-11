@@ -1,0 +1,10 @@
+target/
+.settings/
+.classpath
+.project
+rebel.xml
+*.iml
+*.lic
+epointtemp/
+timercheck/
+/.idea/
